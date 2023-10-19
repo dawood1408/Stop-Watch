@@ -1,0 +1,36 @@
+.img{
+    background-image: url("https://img.freepik.com/free-photo/alarm-clock-laptop-against-pink-background_23-2147943377.jpg?w=900&t=st=1697554355~exp=1697554955~hmac=1d73cdbcf0bd049490a204a001573c3f068f9e86f3dde08a0529564b3cbb4a7f");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    
+   
+}
+h1{
+    display: inline-block;
+    width: 100px;
+    background-color: pink;
+    border-radius: 10%;
+    border: 2px orange solid;
+    
+    
+    
+}
+.bf{
+    margin-left: 800px;
+    margin-bottom: 10px;
+}
+.yu{
+    margin-left: 810px;
+    
+}
+button{
+    background-color: pink;
+    border-radius: 10%;
+    border: 2px orange solid;
+}
+.kl{
+    margin-left: 900px;
+    margin-top: 10px;
+}
